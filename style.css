@@ -1,0 +1,38 @@
+.green {
+	background-color: green;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
+.orange {
+	background-color: orange;
+}
+.blue {
+	background-color: blue;
+}
+.cyan {
+	background-color: cyan;
+}
+.purple {
+	background-color: purple;
+}
+.gray {
+	background-color: lightgray;
+}
+.top {
+	height: 100px;
+	background-color: green;
+}
+.main {
+	height: 900px;
+	background-color: pink;
+}
+.m-t {
+	margin-top: 20px;
+}
+.text {
+	font-size: 9px;
+}
